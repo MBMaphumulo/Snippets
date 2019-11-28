@@ -1,0 +1,19 @@
+    table{
+        width: 100% !important;
+        /* border-collapse: inherit !important; */
+        border-spacing: 0 !important;
+    }
+
+    .bg-tr{
+        background: linear-gradient(to bottom right, #444444 0%, #0f0f0f 100%) !important;
+    }
+
+    th{
+        color:white;
+    }
+
+    tr,th,td{
+        border-bottom:1px solid #ccc;
+        padding:10px 20px;
+        border-right:none
+    }
